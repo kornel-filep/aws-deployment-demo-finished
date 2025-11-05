@@ -84,10 +84,6 @@ src/
 
 This application includes AWS CDK infrastructure for deployment to AWS using S3 and CloudFront.
 
-**Documentation:**
-- [DEPLOYMENT.md](DEPLOYMENT.md) - Complete deployment guide
-- [COMMANDS.md](COMMANDS.md) - Quick command reference
-
 Quick deploy:
 ```bash
 # Default AWS profile
